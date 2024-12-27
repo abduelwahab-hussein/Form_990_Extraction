@@ -8,10 +8,10 @@ This code does three things:
 - Cleans 990 data.
 
 The code is available for anyone but is particularly useful for: 
-- NPOs
-- Curious citizens
-- Academic Researchers
-- Professionals that work with NPOs regularly.
+- **NPOs**
+- **Curious citizens**
+- **Academic researchers**
+- **Professionals who work with NPOs regularly**
 
 
 The code is broken down into various elements and explained at length, but if you have questions or comments, feel free to reach out to me!: abduelwahabhussein@gmail.com
